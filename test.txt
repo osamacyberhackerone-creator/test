@@ -12,3 +12,4 @@ test11
 test13
 test14
 test x&user_operator_mode=bool:true
+test x|user_operator_mode=bool:true
